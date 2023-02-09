@@ -1,0 +1,15 @@
+table, th, td {
+    
+    border: 1px solid black;
+  }
+  table {
+    border-collapse: separate;
+  }
+  th, td {
+    padding: 10px;
+    
+  }
+  .center {
+    margin: auto;
+
+  }
